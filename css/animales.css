@@ -1,0 +1,271 @@
+#urgente {
+
+}
+
+#urgente h2,h4{
+	text-align:center;
+
+}
+
+#urgente .contenedor1{
+	
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap; /*bajar elemento cuando no cabe*/
+	
+}
+
+#urgente article {
+	margin:15px;
+
+}
+
+#urgente img {
+	width:100%;
+	max-width:280px;
+}
+
+
+
+
+
+
+
+#perros {
+
+}
+
+#perros h2,h4{
+	text-align:center;
+}
+
+#perros .contenedor1{
+	
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap; /*bajar elemento cuando no cabe*/
+	
+}
+
+#perros article {
+	margin:15px;
+
+}
+
+#perros img {
+	width:100%;
+	max-width:280px;
+
+}
+
+
+#gatos {
+}
+
+#gatos h2,h4{
+	text-align:center;
+}
+
+#gatos .contenedor1{
+	
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap; /*bajar elemento cuando no cabe*/
+	
+}
+
+#gatos article {
+	margin:15px;
+
+}
+
+#gatos img {
+	width:100%;
+	max-width:280px;
+
+}
+
+
+#tienda {
+}
+
+#tienda h2,h4{
+	text-align:center;
+}
+
+#tienda .contenedor1{
+	
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap; /*bajar elemento cuando no cabe*/
+	
+}
+
+#tienda article {
+	margin:15px;
+
+}
+
+#tienda img {
+	width:100%;
+	max-width:280px;
+
+}
+
+
+#noticias {
+
+}
+
+#noticias h2,h4{
+		max-width:100%;
+	text-align:center;
+}
+
+#noticias .contenedor1{
+	
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap; /*bajar elemento cuando no cabe*/
+	
+}
+
+#noticias article {
+	margin:10px;
+
+}
+
+#noticias img {
+	width:100%;
+	max-width:280px;
+}
+#noticias p  {
+	max-width:100%;
+ text-align:center;
+}
+
+#noticias h4,h2  {
+	max-width:100%;
+ text-align:center;
+
+
+}
+ h2{
+	padding-top:10%;
+	
+}
+.articleNotice
+{
+	width: 25%;
+	text-align: center;
+}
+
+#colabora .contenedor1{
+	
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap; /*bajar elemento cuando no cabe*/
+	
+}
+
+#contacto .contenedor13{
+	
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap; /*bajar elemento cuando no cabe*/
+	
+}
+
+#contacto iframe{
+	
+margin-left:15%;	
+}
+
+#contacto h2{
+	
+margin-bottom:1%;	
+}
+ #contacto img{
+	
+	width:200px;
+	
+	height:200px;
+	margin-left: 2%;
+}
+.contenedor13{
+	background-color:#6f5656bd;
+	
+}
+
+.iframe{
+	
+	border:dotted;
+	background-color:blue;
+}
+
+.datosiframe{
+border:dotted;	
+	background-color:red;
+	width:30%;
+}
+
+.contenedor13 #redFacebook {
+           height: 80px;
+    width: 80px;
+    left: 78%;
+    top: 389%;
+    border: 4px solid;
+    border-radius: 50px;
+    border-color: #0000;
+    float: left;
+    margin: 13px;
+    margin-right: 16%;
+    margin-left: 16%;
+}
+    
+	
+	
+
+.contenedor13 #redTwitter {
+        height: 80px;
+        width: 80px;
+        left: 87%;
+		top: 389%;
+     
+        border: 4px solid;
+        border-radius: 50px;
+        border-color:#FFFFFF;
+       
+		float:left;
+		margin: 10px;
+    }
+#datoscon{
+	
+}
+
+#TelefonoProtectora{
+	
+	    margin-left: 76%;
+    margin-top: -23%;
+}
+
+#labelmail{
+	    margin-left: 62%;
+    margin-top: -20%;
+}
+
+#emailProtectora{
+	    margin-left: 86%;
+    margin-top: -20%;
+}
+#redcon{
+	    width: 24%;
+    padding-top: 10%;
+    /* top: 126%; */
+    /* border: dotted; */
+    /* height: 22%; */
+    margin-left: 75%;
+    margin-top: -19%;
+    /* align-items: start; */
+    /* display: flex; */
+}

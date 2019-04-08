@@ -1,0 +1,68 @@
+
+.contenedor11{
+	width:10%;
+	padding-top: 1%;
+	position:fixed;
+
+	top:32%;
+	flex-wrap:wrap; /*bajar elemento cuando no cabe*/
+	
+
+}
+.icoflot{
+	width:100%;
+}
+#toggle {
+	display:none;
+}
+#colabora #contactoico {
+	
+	 width:150px;
+	 height:150px;
+}
+#news
+{
+	width: 33%;
+}
+.contenedor11 input{
+	padding:20%;
+	margin:50px;
+	display:list-item;
+	margin:auto;
+}
+.contac{
+	width:100%;
+	position:fixed;
+	z-index:100px;
+	top:300px;
+	flex-wrap:wrap; /*bajar elemento cuando no cabe*/
+	border:dotted;
+}
+.icontac{
+	width:100px;
+
+}
+
+
+@media only screen and (max-widht:400px){
+	
+.contenedor11{
+	width:30%;
+
+
+
+}
+
+}
+
+@media(min-widht:1000px){
+	
+	.contenedor11{
+		width:100px;
+	
+	}
+	
+
+
+}
+

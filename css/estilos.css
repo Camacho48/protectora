@@ -1,0 +1,177 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet");
+
+
+@import url(https://fonts.googleapis.com/css?family=Felipa|Hanalei+Fill" rel="stylesheet");
+
+@import url(https://fonts.googleapis.com/css?family=Felipa" rel="stylesheet");
+@import url(menu.css);
+@import url(banner.css);
+@import url(animales.css);
+@import url(icoflot.css);
+
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	
+}
+
+body{
+	font-family: 'Raleway', arial;
+}
+
+header{
+	width:100%;
+	height:80px;
+	background:rgba(140,114,114,0.9);
+	color:#fff;
+	position:fixed;
+	top:0;
+	left:0;
+	z-index:100;
+}
+.contenedor{
+	width:98%;
+	margin:auto;
+	height:100px;
+	
+}
+h1{
+	float:left;
+	margin-top:25px;
+	font-family: 'Hanalei Fill', cursive;
+	text-shadow: 0.1em 0.1em 0.05em #333;
+}
+header .contenedor{
+	display:table;
+}
+
+section{
+	width:100%;
+	margin-bottom:25px;
+}
+
+#logo{
+	float:left;
+	width:80px;
+	height:80px;
+	
+}
+.icon-menu{
+	margin-top:30px;
+	margin-right:25px;
+	
+}
+.btnlogin{
+	
+	display:flex;
+	float:right;
+	margin-left:auto;
+	margin-right:20px;
+	margin-top:30px;
+	background-color:transparent;
+	border:none;
+	color:#fff;
+	padding-left:15px;
+	border-left:2px solid rgba(255,255,255,0.5);
+	height:30px;
+	font-size:20px;
+	cursor:pointer;
+	
+}
+.footerDes{
+	margin-top:20%;
+	font-size:20px;
+	text-align:center;
+}
+
+footer {
+	
+float:none;
+clear:both;
+background:rgba(140,114,114,0.9);
+height:200px;
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+padding:0px;
+
+bottom: 0px;
+}
+
+.foDiv{
+	
+
+}
+
+
+
+
+.media{
+	width:100%;
+	text-align:center;
+	font-size:28px;
+	margin-left:auto;
+	margin-right:20px;
+	margin-bottom:30px;
+	padding:10px;
+}
+
+.media a{
+	color:#333;
+	text-decoration:none;
+}
+
+#s1 {
+	
+	border:dotted;
+	
+	margin-top:30%;
+	
+	
+}
+#s1 img{
+	
+	display:block;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+
+
+.mySlides {
+	
+	
+
+}
+
+
+@media(min-widht:1024px){
+	
+	.contenedor{
+		width:1000px;
+		display:flex;
+	}
+	
+
+
+}
+
+.map-container-6{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-6 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+
+
+
+
